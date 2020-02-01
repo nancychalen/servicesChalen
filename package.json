@@ -1,0 +1,22 @@
+{
+  "name": "servicesChalen",
+  "description": "Bienvenidos a Servidor Chalen!",
+  "version": "1.0.0",
+  "main": "server.js",
+  
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "pg": "^7.3.0"
+  },
+    "scripts": {
+      "start": "node server.js"
+  }
+
+    
+}
